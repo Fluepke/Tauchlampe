@@ -1,0 +1,67 @@
+Partlist
+
+Exported from Tauchlampe.sch at 26.05.14 22:14
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value              Device               Package      Library             Sheet
+
+BAT+                        WIREPAD3,81/1,1      3,81/1,1     wirepad             1
+BAT-                        WIREPAD3,81/1,1      3,81/1,1     wirepad             1
+BT_5V    WIREPADSMD1,27-254 WIREPADSMD1,27-254   SMD1,27-2,54 wirepad             1
+BT_GND   WIREPADSMD1,27-254 WIREPADSMD1,27-254   SMD1,27-2,54 wirepad             1
+BT_RX    WIREPADSMD1,27-254 WIREPADSMD1,27-254   SMD1,27-2,54 wirepad             1
+BT_TX    WIREPADSMD1,27-254 WIREPADSMD1,27-254   SMD1,27-2,54 wirepad             1
+C1       100nF              C-EUC0603K           C0603K       rcl                 1
+C2       22n                C-EUC0603K           C0603K       rcl                 1
+C3       220p               C-EUC0603K           C0603K       rcl                 1
+C4       100µF              CPOL-EU153CLV-0505   153CLV-0505  rcl                 1
+C5       100nF              C-EUC1206            C1206        rcl                 1
+C6       22pF               C-EUC1206            C1206        rcl                 1
+C7       22pF               C-EUC1206            C1206        rcl                 1
+C8       100nF              C-EUC0603K           C0603K       rcl                 1
+C9       470pF              C-EUC0603            C0603        rcl                 1
+C10      2,2µF              C-EUC0603            C0603        rcl                 1
+C11      100nF              C-EUC0603K           C0603K       rcl                 1
+C12      100nF              C-EUC0603K           C0603K       rcl                 1
+D1                          DIODE-SMC            SMC          diode               1
+D2                          DIODE-SOD323-W       SOD323-W     diode               1
+D3                          DIODE-SOD323-W       SOD323-W     diode               1
+D4                          DIODE-SOD323-W       SOD323-W     diode               1
+D5                          DIODE-SOD323-W       SOD323-W     diode               1
+IC1      MEGA8-AI           MEGA8-AI             TQFP32-08    atmel               1
+IC2      L5973D             L5973D               HSOP8        st-microelectronics 1
+IC3      TS5205             TS5205               SOT25        v-reg               1
+IC4      4050D              4050D                SO16         40xx                1
+JP1                         PINHD-2X3            2X03         pinhead             1
+JP2                         PINHD-1X03_2.54-SMD  1X03SMD      pinhead-2           1
+JP3                         PINHD-1X03_2.54      1X03         pinhead-2           1
+L1       22µH               L-EUPISG             PISG         inductor-fastron    1
+L2                          L-EUL2012C           L2012C       rcl                 1
+LED1                        LEDCHIP-LED0805      CHIP-LED0805 led                 1
+PAD3     KSQ-               WIREPAD3,81/1,1      3,81/1,1     wirepad             1
+PAD4     KSQ+               WIREPAD3,81/1,1      3,81/1,1     wirepad             1
+PWM      WIREPADSMD1,27-254 WIREPADSMD1,27-254   SMD1,27-2,54 wirepad             1
+Q1                          CRYSTALHC49UP        HC49UP       crystal             1
+R1       2.0M               R-EU_M1206           M1206        rcl                 1
+R2       1.0M               R-EU_M1206           M1206        rcl                 1
+R3       4k7                R-EU_R0603           R0603        rcl                 1
+R4       5k6                R-EU_R0603           R0603        rcl                 1
+R5       3k3                R-EU_R0603           R0603        rcl                 1
+R6       10k                R-EU_R1206           R1206        rcl                 1
+R7       10k                R-EU_M0805           M0805        rcl                 1
+R8       470                R-EU_M0805           M0805        rcl                 1
+R9       10k                R-EU_M0805           M0805        rcl                 1
+R10      470                R-EU_M0805           M0805        rcl                 1
+R11      10k                R-EU_M1206           M1206        rcl                 1
+R12      10k                R-EU_M1206           M1206        rcl                 1
+R13      10k                R-EU_M1206           M1206        rcl                 1
+R14      10k                R-EU_M0805           M0805        rcl                 1
+S1       REED-SWITCH-MK15-B REED-SWITCH-MK15-B   MK15         switch-reed         1
+S2       REED-SWITCH-MK15-B REED-SWITCH-MK15-B   MK15         switch-reed         1
+T1       BC857              BC857A-PNP-SOT23-BEC SOT23-BEC    transistor          1
+T3       BC847              BC847                SOT23        transistor          1
+U$1      IRF7413            IRF7413              SO-8         01_eigeneBauteile   1
+U$2      SDD1306            SDD1306              2X08         Display-SSD1306     1
